@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-datepicker": "^9.1.0",
+    "tailwind-merge": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/react-datepicker": "^6.2.0"
+  }
+}
